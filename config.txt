@@ -1,0 +1,6 @@
+﻿token=NTE3MDA4Mzg4NDQ2NDg2NTU3.Dt7-Qg.GIjEN1qbTlXkF5JwID6CegptLZ0
+owner=509719956473249802
+prefix= 4
+game= 4play
+stayinchannel=true
+songinstatus=true 
